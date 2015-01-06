@@ -1,0 +1,11 @@
+{application, social,
+ [
+  {description, "Social Networking Prototype"},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.
